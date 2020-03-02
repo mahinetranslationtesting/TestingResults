@@ -480,14 +480,14 @@
 | The situation at the southern border, which started as a crisis, is now a near system wide meltdown. |
 | The situation at the southern border, which started as a crisis, is now a near system wide operation. |
 | दक्षिणी सीमा पर स्थिति, जो एक संकट के रूप में शुरू हुई थी, अब एक निकटवर्ती प्रणाली है। |
-| second |
+| both |
 
 | Issue 69 |
 | :--- |
 | The situation at the southern border, which started as a crisis, is now a near system wide meltdown. |
 | The situation at the southern border, which started as a crisis, is now a near system wide development. |
 | दक्षिणी सीमा पर स्थिति, जो एक संकट के रूप में शुरू हुई थी, अब एक निकटवर्ती प्रणाली है। |
-| second |
+| both |
 
 | Issue 70 |
 | :--- |
